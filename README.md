@@ -8,6 +8,7 @@
     </ul>
 
     <h2>Environment Setup in Google VS Code</h2>
+    <p>
     <ul>
         <li>Install Visual Studio Code from the official website.</li>
         <li>Install the Python extension for Visual Studio Code.</li>
@@ -23,3 +24,4 @@
         <li>GitHub Pull Requests and Issues (for managing GitHub within VS Code)</li>
         <li>Markdown All in One (for editing Markdown files, like README)</li>
     </ul>
+    </p>
