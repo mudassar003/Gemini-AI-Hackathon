@@ -1,0 +1,7 @@
+# Common Ignores 
+__pycache__/  # Ignores Python bytecode
+*.env  # Ignore your environment file (stores your API key)
+
+# Specific Files
+app.py
+test.py
