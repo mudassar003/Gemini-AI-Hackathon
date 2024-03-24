@@ -1,0 +1,8 @@
+#pip install -r requirements.txt
+streamlit
+PyPDF2
+google-generativeai
+requests
+streamlit-lottie
+python-dotenv 
+os
