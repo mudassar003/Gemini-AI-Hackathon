@@ -1,25 +1,11 @@
-<h1>Gemini-AI-Hackathon</h1>
-<ul>
-    <li>Embrace an app creation with a game-changer from Google!</li>
-    <li>Try new true competitor of ChatGPT 4.</li>
-    <li>Create an app with intuitive support from Gemini Ultra 1.0.</li>
-    <li>Take part alone or form a team with other participants.</li>
-    <li>The final project can be used for your portfolio, and the startup application to the Slingshot accelerator.</li>
-</ul>
+# AI Chatbot with PDF Question Answering & Summarization
 
-<h2>Environment Setup in Google VS Code:</h2>
-<ul>
-    <li>Install Visual Studio Code from the official website.</li>
-    <li>Install the Python extension for Visual Studio Code.</li>
-    <li>Install the GitLens extension for enhanced Git capabilities.</li>
-    <li>Install the required Python libraries using pip.</li>
-</ul>
+**Gemini AI Hackathon Project:** This project unlocks the power of the Gemini language model to help you analyze and understand research papers.  Ask questions, get summaries, and accelerate your knowledge discovery. 
 
-<h2>List of VS Code Extensions:</h2>
-<ul>
-    <li>Python (for Python development)</li>
-    <li>GitLens (for enhanced Git features)</li>
-    <li>Pylance (for Python language support)</li>
-    <li>GitHub Pull Requests and Issues (for managing GitHub within VS Code)</li>
-    <li>Markdown All in One (for editing Markdown files, like README)</li>
-</ul>
+**Key Features:**
+
+* **Harness Gemini Ultra 1.0:** Experience the capabilities of this cutting-edge language model firsthand.
+* **PDF Insights at Your Fingertips:** Extract knowledge efficiently from PDF research papers.
+* **Hackathon Submission:**  This project is ready to showcase your skills and potentially launch your startup with Slingshot!  
+
+Let's explore how AI can transform your research workflow!
