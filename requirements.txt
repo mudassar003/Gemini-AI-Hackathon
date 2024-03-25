@@ -5,4 +5,3 @@ google-generativeai
 requests
 streamlit-lottie
 python-dotenv 
-os
